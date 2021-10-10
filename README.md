@@ -4,7 +4,7 @@
 * Python 3.7.7 
 * PyTorch 1.1.0
 
-## Getting Started
+## Main Folder Structure
 |-- mmodel  
 |-- mtrain  
 |&nbsp;&nbsp;|-- ZZZ_model  
