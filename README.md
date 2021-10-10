@@ -9,7 +9,6 @@
 |-- mtrain  
 |&nbsp;&nbsp;|-- ZZZ_model  
 |&nbsp;&nbsp;&nbsp;&nbsp;| -- datas  
-|-- wandb  
 |-- env.yml  
 |-- main.py  
 |-- readme.md 
